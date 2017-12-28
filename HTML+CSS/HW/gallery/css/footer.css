@@ -130,3 +130,17 @@
         font-size: 0.75rem;
     }
 }
+
+@media (min-width: 1024px) {
+
+    .footer-menu {
+        flex-grow: 0.7;
+    }
+    .footer-menu-item {
+        text-align: center;
+    }
+
+    .footer-social {
+        width: 20%;
+    }
+}
